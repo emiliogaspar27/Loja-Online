@@ -21,7 +21,6 @@ O modelo é composto pelas entidades:
 - Pagamento
 - Entrega
 
-![Diagrama Entidade-Relacionamento](DER/LOJA_ONLINE (DER).png)
 
 ## Tecnologias
 
@@ -41,11 +40,3 @@ Para executar:
 2. Execute o script.
 3. O banco de dados será criado conforme definido no arquivo SQL.
 
-## Estrutura
-
-```text
-├── README.md
-├── der/
-│   └── LOJA_ONLINE (DER).png
-├── sql/
-    └── LOJA_ONLINE.sql
